@@ -1,2 +1,6 @@
 .env
 notes.txt
+00-flask
+
+mlruns
+mlartifacts
